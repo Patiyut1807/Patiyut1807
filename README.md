@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patiyut</h1>
-<h3 align="center">I am to Fullstack Developers but it so Farrrrrr!</h3>
+<h3 align="center">I am want to be Fullstack Developers but it so Farrrrrr!</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
