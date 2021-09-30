@@ -1,5 +1,7 @@
-a,b,c,d=int(input()).split()
-sum=(a+b+c+d)/4
+a,b=input().split()
+a=int(a)
+b=int(b)
+sum=(a+b)/4
 sum=float(sum)
 print(sum)
     
