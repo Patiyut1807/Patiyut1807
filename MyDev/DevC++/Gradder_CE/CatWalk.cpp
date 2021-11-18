@@ -4,10 +4,7 @@
 using namespace std;
 int main()
 {
-    string s;
-    getline(cin, s);
-    for (int i = 0; i < s.length(); i++)
-    {
-        if(s[i] == '')
-    }
+    short int a[4];
+    cout <<sizeof(a);
+    return 0;
 }
