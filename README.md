@@ -4,5 +4,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Patiyut1807&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patiyut1807&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patiyut1807&bg_color=222720&color=ffffff&line=ededed&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
